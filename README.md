@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abanoubsamirnaguib&label=Profile%20views&color=0e75b6&style=flat" alt="abanoubsamirnaguib" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abanoubsamirnaguib.github.io/AbanoubSamir](https://abanoubsamirnaguib.github.io/AbanoubSamir)
+- 👨‍💻 All of my projects are available at [https://abanoubsamir.com](https://abanoubsamir.com)
 
 - 📫 How to reach me **abanoubsamir@gmail.com**
 
